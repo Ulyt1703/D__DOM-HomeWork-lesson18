@@ -1,0 +1,19 @@
+body{
+    overflow-y: hidden;
+}
+.box-father{
+    position: relative;
+    top: -390px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0 0 0 150px;
+}
+.image{
+    width: 250px;
+}
+.image-2{
+    width: 250px;
+}
+.image-3{
+    width: 250px;
+}
